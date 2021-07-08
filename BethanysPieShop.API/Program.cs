@@ -6,8 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
 namespace BethanysPieShop.API
-{
-    public class Program
+{    public class Program
     {
         public static void Main(string[] args)
         {
